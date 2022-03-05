@@ -1,0 +1,27 @@
+
+.mybtn{
+    width: 800px !important;
+}
+.mybannr{
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 70%!important;
+    height: 100px !important;
+}
+.myimg {
+  min-height: 100px!important;
+}
+.clsimg {
+  margin-left: -25%!important;
+  
+}
+a{
+  color: black !important;
+}
+.mybg{
+  background-color: 	#f5deb3 !important;
+}
+p{
+  text-align: end;
+}
